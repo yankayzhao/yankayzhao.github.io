@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhao Yankai obtained a student degree from Nankai University in 2024. He is currently pursuing a master's degree in Computer Science and Engineering at Southern University of Science and Technology. My supervisor is Professor [Zhang Jin] (https://jinzhang-sustech.github.io/). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
+Zhao Yankai obtained a student degree from Nankai University in 2024. He is currently pursuing a master's degree in Computer Science and Engineering at Southern University of Science and Technology. My supervisor is Professor [Zhang Jin](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
 
 <!-- News
 ======
@@ -17,7 +17,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Selected Publications
 ======
-[www 2024] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†
+[__www 2024__] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†, 
 Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Systems. [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645392)
 
 
