@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhao Yankai obtained a B.E. degree from Nankai University in 2024. He is currently pursuing his M.S. degree with the Department of Computer Science and Technology, SUSTech. at Southern University of Science and Technology. My supervisor is [Prof. Jin Zhang](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
+Zhao Yankai obtained a B.E. degree from Nankai University in 2024. He is currently pursuing his M.S. degree with the Department of Computer Science and Technology, SUSTech. His supervisor is [Prof. Jin Zhang](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
 
 <!-- News
 ======
