@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yankay Zhao's homepage"
+title: "bio"
 author_profile: true
 redirect_from: 
   - /about/
