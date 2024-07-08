@@ -17,7 +17,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Selected Publications
 ======
-[__www 2024__] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†, 
+[__WWW 2024__] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†, 
 Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Systems. [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645392)
 
 
