@@ -9,6 +9,9 @@ redirect_from:
 
 Zhao Yankai obtained a B.E. degree from Nankai University in 2024. He is currently pursuing his M.S. degree with the Department of Computer Science and Technology, SUSTech. His supervisor is [Prof. Jin Zhang](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
 
+
+I admire and learn from these researchers in the same field: [Wentao Xie](https://cse.hkust.edu.hk/admin/people/faculty/profile/wentaox#), [Ke Li](https://keli97.github.io/), [Yetong Cao](https://yetongcao.github.io/), [Xue Sun](https://dl.acm.org/profile/99660537281). They are my role models in learning and serve as both the driving force and guiding light that inspire me to continually progress in my scientific research.
+
 News
 ======
 [ 24/07 ] [EyeGesener](https://dl.acm.org/doi/10.1145/3678541) was accepted to IMWUT/Ubicomp'24, which presents the first eye-gestures interaction system on a pair of eyeglasses based on acoustic sensing. I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
