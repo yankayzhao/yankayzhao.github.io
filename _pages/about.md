@@ -11,14 +11,14 @@ Zhao Yankai obtained a B.E. degree from Nankai University in 2024. He is current
 
 News
 ======
-[ 24/07 ] Our paper was accepted to [IMWUT/Ubicomp'24], I was fortunate enough to complete this paper as a co-first author when I was an ungraduated student.
+[ 24/07 ] Our paper was accepted to [IMWUT/Ubicomp'24], I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
 
 Selected Publications
 ======
-[__IMWUT 2024___] Tao Sun∗, Yankai Zhao∗, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang 
+[__IMWUT 2024___] Tao Sun∗, __Yankai Zhao∗__, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang 
 EyeGesener: Eye Gesture Listener for Smart Glasses Interaction Using Acoustic Sensing. [PDF](https://dl.acm.org/doi/10.1145/3678541)
 
-======
+
 [__WWW 2024__] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†, 
 Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Systems. [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645392)
 
