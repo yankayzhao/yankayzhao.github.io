@@ -15,7 +15,7 @@ News
 
 Selected Publications
 ======
-[__IMWUT 2024___] Tao Sun∗, __Yankai Zhao∗__, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang†,  
+[__IMWUT 2024__] Tao Sun∗, __Yankai Zhao∗__, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang†,  
 EyeGesener: Eye Gesture Listener for Smart Glasses Interaction Using Acoustic Sensing. [PDF](https://dl.acm.org/doi/10.1145/3678541)
 
 
