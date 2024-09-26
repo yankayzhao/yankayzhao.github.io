@@ -13,7 +13,7 @@ Yankai Zhao obtained the B.E. degree from Nankai University in 2024. He is curre
 Role models
 ======
 I am very grateful to my senior fellow apprentice Tao Sun, for guiding me and enhancing my research abilities.
-I also admire and learn from these researchers in the same field: [Wentao Xie](https://cse.hkust.edu.hk/admin/people/faculty/profile/wentaox#),   [Ke Li](https://keli97.github.io/),   [Yetong Cao](https://yetongcao.github.io/),   [Xue Sun](https://dl.acm.org/profile/99660537281). They are my role models in learning and serve as both the driving force and guiding light that inspire me to continually progress in my scientific research.
+I also admire and learn from these researchers in the same field: [Wentao Xie](https://cse.hkust.edu.hk/admin/people/faculty/profile/wentaox#),   [Ke Li](https://keli97.github.io/),   [Yetong Cao](https://yetongcao.github.io/),   [Xue Sun](https://dl.acm.org/profile/99660537281). They are my role models in learning, the driving force and guiding light that inspire me to progress in my scientific research continually.
 
 News
 ======
