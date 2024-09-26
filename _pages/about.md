@@ -11,7 +11,7 @@ Zhao Yankai obtained a B.E. degree from Nankai University in 2024. He is current
 
 News
 ======
-[ 24/07 ] Our paper was accepted to [IMWUT/Ubicomp'24], I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
+[ 24/07 ] [EyeGesener](https://dl.acm.org/doi/10.1145/3678541) was accepted to IMWUT/Ubicomp'24, which presents the first eye-gestures interaction system on a pair of eyeglasses based on acoustic sensing. I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
 
 Selected Publications
 ======
