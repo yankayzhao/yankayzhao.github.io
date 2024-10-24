@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yankai Zhao obtained the B.E. degree from Nankai University in 2024 honored with Outstanding Graduates. In recognition of his outstanding performance during his undergraduate studies, he won the Zhou Enlai Scholarship nomination at Nankai University before graduation(Top 1%). He is currently pursuing his M.S. degree with the Department of Computer Science and Technology, SUSTech. His supervisor is [Prof. Jin Zhang](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
+Yankai Zhao obtained the B.E. degree from Nankai University in 2024 honored with Outstanding Graduates. In recognition of his outstanding performance during his undergraduate studies, he won the Zhou Enlai Scholarship nomination at Nankai University before graduation (Top 1%). He is currently pursuing his M.S. degree with the Department of Computer Science and Technology, SUSTech. His supervisor is [Prof. Jin Zhang](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
 
 
 Role models
