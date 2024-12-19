@@ -12,7 +12,7 @@ Yankai Zhao obtained the B.E. degree from Nankai University in 2024 honored with
 
 Undergraduate Years
 ======
-I feel extremely fortunate to meet my roommate [Lishen Qu]([qulishen.top](https://www.qulishen.top/)) during our undergraduate studies, I spent my happiest undergraduate life at Nankai University with them; Zekun Fei (NKU), Enpei Niu (ZJU), Tianhao Huang (ASU), Peng Xue (UCAS), Yanhao li (PKU) and Yuqi Li (JHU).
+I feel extremely fortunate to meet my roommate [Lishen Qu](https://www.qulishen.top/) during our undergraduate studies, I spent my happiest undergraduate life at Nankai University with them; Zekun Fei (NKU), Enpei Niu (ZJU), Tianhao Huang (ASU), Peng Xue (UCAS), Yanhao li (PKU) and Yuqi Li (JHU).
 
 
 Role models
