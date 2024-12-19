@@ -10,6 +10,11 @@ redirect_from:
 Yankai Zhao obtained the B.E. degree from Nankai University in 2024 honored with Outstanding Graduates. In recognition of his outstanding performance during his undergraduate studies, he won the Zhou Enlai Scholarship Nomination at Nankai University before graduation (Top 1%). He is currently pursuing his M.S. degree with the Department of Computer Science and Technology, SUSTech. His supervisor is [Prof. Jin Zhang](https://jinzhang-sustech.github.io). His research interests include but are not limited to the Internet of Things (AIoT), ubiquitous computing, and HCI technology.
 
 
+Undergraduate Years
+======
+I feel extremely fortunate to meet my roommate [Lishen Qu](qulishen.top) during our undergraduate studies, I spent my happiest undergraduate life at Nankai University with them; Zekun Fei (NKU), Enpei Niu (ZJU), Tianhao Huang (ASU), Peng Xue (UCAS), Yanhao li (PKU) and Yuqi Li (JHU).
+
+
 Role models
 ======
 I am very grateful to my senior fellow apprentice Tao Sun, for guiding me and enhancing my research abilities.
