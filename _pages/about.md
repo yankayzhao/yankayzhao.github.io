@@ -22,6 +22,8 @@ I also admire and learn from these researchers in the same research field: [Went
 
 News
 ======
+[ 25/01  ] Our paper Palatetouch has been conditionally accepted by CHI25!
+
 [ 24/07 ] [EyeGesener](https://dl.acm.org/doi/10.1145/3678541) was accepted to IMWUT/Ubicomp'24, which presents the first eye-gestures interaction system on a pair of eyeglasses based on acoustic sensing. I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
 
 Selected Publications
@@ -35,7 +37,7 @@ Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Sys
 
 Services
 ======
-1. Reviewer for CHI 2025.
+External reviewer for CHI 2025.
 
 
 <!-- Site-wide configuration
