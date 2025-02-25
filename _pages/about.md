@@ -23,15 +23,15 @@ News
 
 Publications
 ======
-[__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun,
+[__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun, /
 PalateTouch: PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing.
 
 
-[__IMWUT 2024__] Tao Sun∗, __Yankai Zhao∗__, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang†,  
+[__IMWUT 2024__] Tao Sun∗, __Yankai Zhao∗__, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang†, / 
 EyeGesener: Eye Gesture Listener for Smart Glasses Interaction Using Acoustic Sensing. [PDF](https://dl.acm.org/doi/10.1145/3678541)
 
 
-[__WWW 2024__] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†, 
+[__WWW 2024__] Zhaoyang Yu∗, Shenglin Zhang∗, Mingze Sun, Yingke Li, __Yankai Zhao__, Xiaolei Hua, Lin Zhu, Xidao Wen, Dan Pei†, /
 Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Systems. [PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645392)
 
 Services
