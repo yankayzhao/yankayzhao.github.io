@@ -23,7 +23,7 @@ News
 
 Publications
 ======
-[__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun
+[__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun,
 PalateTouch: PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing.
 
 
