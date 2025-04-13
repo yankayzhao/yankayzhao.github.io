@@ -17,6 +17,8 @@ I also admire and learn from these researchers in the same research field: [Went
 
 News
 ======
+[ 25/04  ] I received the 'Excellent Academic Poster Award' held by Infohub CS.
+
 [ 25/01  ] Our paper Palatetouch has been conditionally accepted by CHI25! Palatetouch introduced a earphone interaction system. We enable the palate as a touchpad and the tip of the tongue as a clicker.
 
 [ 24/07 ] [EyeGesener](https://dl.acm.org/doi/10.1145/3678541) was accepted to IMWUT/Ubicomp'24, which presents the first eye-gestures interaction system on a pair of eyeglasses based on acoustic sensing. I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
