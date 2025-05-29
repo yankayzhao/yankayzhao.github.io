@@ -12,18 +12,18 @@ Yankai Zhao obtained the B.E. degree from Nankai University in 2024 honored with
 
 Role models
 ======
-I am very grateful to my senior fellow apprentice Tao Sun, for guiding me and enhancing my research abilities.
+I am very grateful to my senior Tao Sun, for guiding me and enhancing my research abilities.
 I also admire and learn from these researchers in the same research field: [Wentao Xie](https://xie-wentao.github.io/),   [Ke Li](https://keli97.github.io/),   [Yetong Cao](https://yetongcao.github.io/),   [Xue Sun](https://dl.acm.org/profile/99660537281). They are all my role models in learning, the driving force and guiding light that inspire me to progress in my scientific research continually.
 
 News
 ======
-[ 2025/04  ] I received the 'Excellent Academic Poster Award' held by Infohub CS.
+[ 2025/05  ] I reported our work ‘Palatetouch’ at CHI‘25 in Yokohama.
 
-[ 2025/01  ] Our paper Palatetouch has been conditionally accepted by CHI25! Palatetouch introduced a earphone interaction system. We enable the palate as a touchpad and the tip of the tongue as a clicker.
+[ 2025/01  ] Our paper [Palatetouch](https://dl.acm.org/doi/full/10.1145/3706598.3713211) has been conditionally accepted by CHI25! Palatetouch introduced a earphone interaction system. We enable the palate as a touchpad and the tip of the tongue as a clicker.
 
 [ 2024/07 ] [EyeGesener](https://dl.acm.org/doi/10.1145/3678541) was accepted to IMWUT/Ubicomp'24, which presents the first eye-gestures interaction system on a pair of eyeglasses based on acoustic sensing. I was fortunate enough to complete this paper as the co-first author when I was an ungraduated student.
 
-Publications
+Publications (* means equal contribution)
 ======
 [__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun   
 PalateTouch: PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing.
