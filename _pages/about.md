@@ -39,7 +39,7 @@ Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Sys
 Services
 ======
 External reviewer for CHI 2025.
-
+External reviewer for Ubicomp/iswc 2025.
 
 <!-- Site-wide configuration
 ------
