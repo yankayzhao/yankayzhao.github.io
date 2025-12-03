@@ -17,6 +17,9 @@ I also admire and learn from these researchers in the same research field: [Went
 
 News
 ======
+
+[ 2025/10  ] Received the National Scholarship!
+
 [ 2025/05  ] I reported our work ‘Palatetouch’ at CHI‘25 in Yokohama.
 
 [ 2025/01  ] Our paper [Palatetouch](https://dl.acm.org/doi/full/10.1145/3706598.3713211) has been conditionally accepted by CHI25! Palatetouch introduced a earphone interaction system. We enable the palate as a touchpad and the tip of the tongue as a clicker.
