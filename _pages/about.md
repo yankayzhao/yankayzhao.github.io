@@ -17,6 +17,7 @@ I also admire and learn from these researchers in the same research field: [Went
 
 News
 ======
+[ 2026/1  ] FingerBar was accepted to CHI2026, and we proposed an mid-air gesture system on earphones, which only uses an outward facing microphone, and does not require the speaker to actively send signals.
 
 [ 2025/10  ] Received the National Scholarship!
 
@@ -28,6 +29,9 @@ News
 
 Publications (* means equal contribution)
 ======
+[__CHI 2026__] __Yankai Zhao∗__, Wentao Xie∗, JHaorui Li, Jiao Li, Tao Sun, Qian Zhang, Jin Zhang†
+FingerBar: A Mid-Air Touch Bar Interface for Earphones Using Finger-Generated Acoustics.
+
 [__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun   
 PalateTouch: PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing.
 
