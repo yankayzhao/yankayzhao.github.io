@@ -33,7 +33,7 @@ Publications (* means equal contribution)
 FingerBar: A Mid-Air Touch Bar Interface for Earphones Using Finger-Generated Acoustics.
 
 [__CHI 2025__] __Yankai Zhao__, Jin Zhang†, Jiao Li, Tao Sun   
-PalateTouch: PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing.
+PalateTouch: PalateTouch: Enabling Palate as a Touchpad to Interact with Earphones Using Acoustic Sensing. [PDF](https://dl.acm.org/doi/full/10.1145/3706598.3713211)
 
 
 [__IMWUT 2024__] Tao Sun∗, __Yankai Zhao∗__, Wentao Xie, Jiao Li, Yongyu Ma, Jin Zhang†   
